@@ -15,3 +15,6 @@ It include various implementations of the famous KNN Search algorithm:
 5. Parallel Distributed (Multiple Process- Multiple Thread/Process), Blocking Comms
 
 6. Parallel Distributed (Multiple Process- Multiple Thread/Process), Non-Blocking Comms
+
+
+The parallelization was made using OpenMP and the distribution using MPI
